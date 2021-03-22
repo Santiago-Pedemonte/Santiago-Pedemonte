@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new and better ways to complete everyday proceses.\
+💡 &nbsp;I like to explore new and better ways to complete everyday processes.\
 🎓 &nbsp;I'm currently studying Economics at New York University.\
 🌱 &nbsp;I'm on track for learning more about FinTech at Columbia Engineering. Check out the curriculum: [Fintech Bootcamp](https://github.com/Santiago-Pedemonte/Columbia_FinTech_Bootcamp)\
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
