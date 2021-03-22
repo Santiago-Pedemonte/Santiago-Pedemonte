@@ -7,9 +7,9 @@
 🌱 &nbsp;I'm on track for learning more about FinTech at Columbia Engineering. Check out the curriculum: [Fintech Bootcamp](https://github.com/Santiago-Pedemonte/Columbia_FinTech_Bootcamp)\
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at app422@nyu.edu!\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/s/2ndhq6bbalzzkg2/1-Resume_SPP_PDF.pdf?dl=0) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> Credits: https://github.com/AVS1508
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
