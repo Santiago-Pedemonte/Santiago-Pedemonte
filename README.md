@@ -8,7 +8,7 @@
 📚 &nbsp;I'm particularly interested in the increasing potential of cryptocurrencies and in the use-cases and general applications of Blockchain technology.\
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at app422@nyu.edu!\
-📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/s/2ndhq6bbalzzkg2/1-Resume_SPP_PDF.pdf?dl=0) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/Santiago-Pedemonte/Santiago-Pedemonte/blob/main/1-%20Resume_SPP_PDF2.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
