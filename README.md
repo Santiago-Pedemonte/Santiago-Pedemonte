@@ -5,7 +5,7 @@
 💡 &nbsp;I like applying methods from Data Science to financial and economic phenomena to gain insight on philosophical questions about rationality.\
 🎓 &nbsp;I'm currently studying Economics at New York University.\
 🌱 &nbsp;I'm on track for learning more about FinTech at Columbia Engineering. Check out the curriculum: [Fintech Bootcamp](https://github.com/Santiago-Pedemonte/Columbia_FinTech_Bootcamp)\
-📚 &nbsp;I'm particularly interested in the increasing potential of cryptocurrencies and- more generally- in the use-cases of Blockchain technology.
+📚 &nbsp;I'm particularly interested in the increasing potential of cryptocurrencies and in the use-cases and general applications of Blockchain technology.
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at app422@nyu.edu!\
 📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/s/2ndhq6bbalzzkg2/1-Resume_SPP_PDF.pdf?dl=0) for more details about me. I'm open to feedback and suggestions!
