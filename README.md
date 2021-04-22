@@ -31,6 +31,11 @@ Crypto aficionado with a strong focus on micro and macroeconomic use-cases. Fast
 
 And more to come!
 
+### 💻🔬 &nbsp;Projects & Research
+
+- [Crypto-MarketScout](https://github.com/RawnakMahjabib/CryptoMarket-Scout)
+- [Crypto-Drivers](https://github.com/RawnakMahjabib/CryptoMarket-Scout/tree/main/CryptoDrivers_ml-techniques)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
