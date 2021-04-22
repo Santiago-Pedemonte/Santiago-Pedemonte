@@ -1,8 +1,8 @@
-## 👋 &nbsp;Hey there! I'm Santiago
+## 👋 &nbsp;Hi! I'm Santiago Pedemont
 
 ### 📄 &nbsp;Summary
 
-Senior at NYU with a degree in Economics and soon-to-obtain a certificate from Columbia’s Fintech Bootcamp. I find it most rewarding to extract insights from data that enhance economic and monetary decision-making. Fast learner and efficient problem-solver. I strive to be the forefront of the developments and disruptions of the Fintech and Cryptocurrency fields.
+Senior at NYU with a degree in Economics and soon-to-obtain a certificate from Columbia’s Fintech Bootcamp. Fast learner and efficient problem-solver with a strong motivation to grow professionaly. I find it most rewarding to extract insights from data that enhance economic and monetary decision-making.  I strive to be the forefront of the developments and disruptions of the Fintech and Cryptocurrency fields.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
