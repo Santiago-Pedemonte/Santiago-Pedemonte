@@ -35,6 +35,7 @@ And more to come!
 
 - [Crypto-MarketScout](https://github.com/RawnakMahjabib/CryptoMarket-Scout)
 - [Crypto-Drivers](https://github.com/RawnakMahjabib/CryptoMarket-Scout/tree/main/CryptoDrivers_ml-techniques)
+- [Up in the Air](https://github.com/Santiago-Pedemonte/Up-in-the-Air)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
