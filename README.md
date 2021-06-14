@@ -7,8 +7,8 @@ Crypto aficionado with a strong focus on micro and macroeconomic use-cases. Fast
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like applying methods from Data Science to financial and economic phenomena to gain insight on philosophical questions about rationality.\
-🎓 &nbsp;I'm currently studying Economics at New York University.\
-🌱 &nbsp;I'm on track for learning more about FinTech at Columbia Engineering. Check out the curriculum: [Fintech Bootcamp](https://github.com/Santiago-Pedemonte/Columbia_FinTech_Bootcamp)\
+🎓 &nbsp;B.A. in Economics from New York University.\
+🌱 &nbsp;FinTech Bootcamp at Columbia Engineering. Check out the curriculum: [Fintech Bootcamp](https://github.com/Santiago-Pedemonte/Columbia_FinTech_Bootcamp)\
 📚 &nbsp;I'm particularly interested in the increasing potential of cryptocurrencies and in the use-cases and general applications of Blockchain technology.\
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at pedemontesantiago@hotmail.com!\
