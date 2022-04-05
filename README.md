@@ -12,7 +12,7 @@ FinTech aficionado with a strong focus on micro and macroeconomic use-cases. Fas
 📚 &nbsp;I'm particularly interested in the increasing potential of cryptocurrencies and in the use-cases and general applications of Blockchain technology.\
 💬 &nbsp;Please feel free to reach out, even just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at pedemontesantiago@hotmail.com!\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/Santiago-Pedemonte/Santiago-Pedemonte/blob/main/1-%20Resume_v3.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/Santiago-Pedemonte/Santiago-Pedemonte/blob/main/Resume%203.0.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
